@@ -1135,10 +1135,6 @@ vendor/lib64/sensors.ssc.so
 vendor/lib64/sensors.elliptic.so
 
 # Thermal
-vendor/etc/thermal-engine-camera.conf
-vendor/etc/thermal-engine.conf
-vendor/etc/thermal-engine-map.conf
-vendor/etc/thermal-engine-normal.conf
 vendor/bin/thermal-engine
 -vendor/lib/libthermalclient.so
 -vendor/lib64/libthermalclient.so
